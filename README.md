@@ -38,6 +38,7 @@ Example Use Cases
 •	Upload your 'Introduction to AI' syllabus and ask:
   - 'Which topics should I focus on?'
   - 'Are there related job roles for my interest in education?'
+
 •	Upload your programming objectives and ask:
   - 'How can I practice these skills?'
   - 'What careers align with coding and creativity?'
