@@ -1,0 +1,8 @@
+streamlit>=1.37
+chromadb>=0.5,<0.6
+sentence-transformers>=3.0
+langchain-openai>=0.2
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+pypdf>=4.0
+pytest>=8.0
